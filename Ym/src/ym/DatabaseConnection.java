@@ -1,4 +1,4 @@
-package amico;
+package ym;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

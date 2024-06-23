@@ -1,4 +1,4 @@
-package amico;
+package ym;
 
 import javafx.fxml.Initializable;
 import java.net.URL;
